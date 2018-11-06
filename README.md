@@ -1,0 +1,2 @@
+# AndroidNativeSendBroadcast
+Android在native代码中发送广播
